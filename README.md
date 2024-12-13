@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🌱 I’m currently learning **JavaScript & Tailwind**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 📫 How to reach me **rjawais60@gmail.com**
 
